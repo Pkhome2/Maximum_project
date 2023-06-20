@@ -6,7 +6,7 @@ def is_it_palindrom(str):
     else:
         return False
 
-
-
-print(palindrom('12'))
+#test
+print(is_it_palindrom ('А роза упала на лапу азора'))
+print(is_it_palindrom ('12'))
 
